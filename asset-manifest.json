@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/claremburu/CRUD-App/static/css/main.8a15d8e6.chunk.css",
+    "main.js": "/claremburu/CRUD-App/static/js/main.2a462364.chunk.js",
+    "main.js.map": "/claremburu/CRUD-App/static/js/main.2a462364.chunk.js.map",
+    "runtime~main.js": "/claremburu/CRUD-App/static/js/runtime~main.ef9102d4.js",
+    "runtime~main.js.map": "/claremburu/CRUD-App/static/js/runtime~main.ef9102d4.js.map",
+    "static/js/2.7e6d3f38.chunk.js": "/claremburu/CRUD-App/static/js/2.7e6d3f38.chunk.js",
+    "static/js/2.7e6d3f38.chunk.js.map": "/claremburu/CRUD-App/static/js/2.7e6d3f38.chunk.js.map",
+    "index.html": "/claremburu/CRUD-App/index.html",
+    "precache-manifest.a99881985759a583c2daa2fba215dec2.js": "/claremburu/CRUD-App/precache-manifest.a99881985759a583c2daa2fba215dec2.js",
+    "service-worker.js": "/claremburu/CRUD-App/service-worker.js",
+    "static/css/main.8a15d8e6.chunk.css.map": "/claremburu/CRUD-App/static/css/main.8a15d8e6.chunk.css.map"
+  }
+}
